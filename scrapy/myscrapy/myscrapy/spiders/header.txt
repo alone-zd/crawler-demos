@@ -1,0 +1,8 @@
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: keep-alive
+Cookie: UM_distinctid=1711b2ca1ec7a0-06ac021abe3595-6701b35-1fa400-1711b2ca1ed683; cityListCmp=%E5%8C%97%E4%BA%AC-101010100-20200327%7C%E4%B8%8A%E6%B5%B7-101020100-20200328%7C%E5%B9%BF%E5%B7%9E-101280101-20200329%7C%E6%B7%B1%E5%9C%B3-101280601-20200330%2Cdefault%2C20200327; cityListHty=101110200%7C101010100%7C101020100%7C101280101%7C101280601%7C101010300; f_city=%E9%A6%99%E6%B8%AF%7C101320101%7C; Hm_lvt_080dabacb001ad3dc8b9b9049b36d43b=1585298846,1585298852; Wa_lvt_1=1585298853; Wa_lpvt_1=1585298853; Hm_lpvt_080dabacb001ad3dc8b9b9049b36d43b=1585298857
+Host: d1.weather.com.cn
+Referer: http://www.weather.com.cn/weather1d/101010100.shtml
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
